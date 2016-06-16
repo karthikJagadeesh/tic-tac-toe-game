@@ -1,0 +1,13 @@
+html,
+body {
+  background-color: #006064;
+  font-family: "Work Sans";
+}
+
+#canvas {
+  display: block;
+  margin: 60px auto;
+  background-color: #FFF;
+  border-radius: 10px;
+  box-shadow: 0px 10px 0px #b3af3b;
+}
